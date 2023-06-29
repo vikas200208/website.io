@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* outline: 1px solid black; */
+}
+
+
+.navbar{
+    height: 10vh;
+    width: 100vw;
+    /* border: 1px solid black; */
+    /* padding-top: 10px; */
+    /* background-color: black !important; */
+    background-color: rgb(188, 227, 227);
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    /* display: flex;
+    justify-content: center; */
+}
+.heading li{
+    display: flex;
+    cursor: pointer;
+    display: inline;
+    padding: 7px;
+    margin-right: 5px;
+    /* margin-left: 5px; */
+}
+.content li{
+    display: flex;
+    display: inline;
+   cursor: pointer;
+    padding: 7px;
+    margin-left: 0px;
+}
+
+
+.carousel-inner{
+    height: 100vh;
+    width: 100vw;
+    padding: 5rem;
+    /* border-radius: 30%; */
+    /* margin-top: 2rem; */
+}
+.image{
+    height: 70vh;
+    width: 100vw;
+  
+}
+.img{
+    height: 50vh;
+    /* padding-left: 20px; */
+}
+
+.columne{
+    /* padding-left: 10px; */
+}
+.col img{
+    height: 7rem;
+    width: 7rem;
+    border-radius: 50%;
+    margin-top: 2rem;
+    /* padding-left: 20px; */
+}
+/* .container{
+    margin-top: 2rem;
+} */
+.mycontainer{
+    width: 75vw !important;
+
+}
+.app{
+    height: 20rem;
+    margin-top: 0;
+    /* background-color: azure; */
+    
+}
+.app h4{
+    margin-left: 28rem
+}
+.app li{
+    padding: 7rem;
+  
+  
+}
+.logo{
+    height: 7rem;
+    width: 7rem;
+    margin-top: 5rem;
+}
+.logo1{
+    height: 7rem;
+    width: 7rem;
+    margin-top: 5rem;
+}
+.logo2{
+    height: 7rem;
+    width: 7rem;
+    margin-top: 5rem;
+}
+.logo3{
+    height: 7rem;
+    width: 7rem;
+    margin-top: 5rem;
+}
+.plants{
+    width: 100vw;
+    margin-top: 2rem;
+    height: 100vh;
+    background-color: rgb(208, 216, 214);
+    display: flex;
+}
+
+.footer{
+    height: 10vh;
+    width: 98vw;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(246, 227, 13);
+}
+
+.footer h4{
+    margin-left: 35vw;
+    padding-top: 20px;
+}
+
+.componant{
+    height: 100vh;
+    width: 98vw;
+    background-color: rgb(237, 230, 221);
+}
+.columns{
+    /* font-weight: bold; */
+    /* padding: 2rem !important; */
+}
+
+.span{
+    font-weight: bold;
+    cursor: pointer;
+}
+.span1{
+    font-weight: bolder;
+    cursor: pointer;
+}
+
